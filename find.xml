@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'MyTest'" />
-    <option name="defaultScopeName" value="Project 'MyTest'" />
+    <option name="customScope" value="Project 'MyTab'" />
+    <option name="defaultScopeName" value="Project 'MyTab'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'MyTest'" />
+    <option name="SEARCH_SCOPE" value="Project 'MyTab'" />
   </component>
 </application>
