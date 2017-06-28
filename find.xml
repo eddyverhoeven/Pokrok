@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'Pokrok'" />
-    <option name="defaultScopeName" value="Project 'Pokrok'" />
+    <option name="customScope" value="Project 'PokrokWww'" />
+    <option name="defaultScopeName" value="Project 'PokrokWww'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Pokrok'" />
+    <option name="SEARCH_SCOPE" value="Project 'PokrokWww'" />
   </component>
 </application>
